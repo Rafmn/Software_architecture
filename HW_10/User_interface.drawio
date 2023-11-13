@@ -1,0 +1,109 @@
+<mxfile host="Electron" modified="2023-11-11T14:13:43.194Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="SXq2M0Bom4DBrUV8-BlQ" version="22.0.3" type="device">
+  <diagram name="Page-1" id="0QlkN_qoCgS0OoVzA-2s">
+    <mxGraphModel dx="797" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rPGQ6etL9gnG7EDU1aPU-5" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="40" width="120" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="rPGQ6etL9gnG7EDU1aPU-6" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="120" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="rPGQ6etL9gnG7EDU1aPU-7" value="Логин" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="80" y="60" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rPGQ6etL9gnG7EDU1aPU-9" value="Пароль" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="80" y="100" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rPGQ6etL9gnG7EDU1aPU-10" value="Вход" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="80" y="150" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rPGQ6etL9gnG7EDU1aPU-13" value="Регистрация" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rPGQ6etL9gnG7EDU1aPU-14" value="Логин" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="255" y="60" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rPGQ6etL9gnG7EDU1aPU-15" value="Почта" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="255" y="100" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rPGQ6etL9gnG7EDU1aPU-16" value="Пароль" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="255" y="140" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rPGQ6etL9gnG7EDU1aPU-17" value="Создать" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="255" y="200" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rPGQ6etL9gnG7EDU1aPU-18" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="40" width="120" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="rPGQ6etL9gnG7EDU1aPU-19" value="Выбор робота" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fillStyle=hatch;" vertex="1" parent="1">
+          <mxGeometry x="425" y="60" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rPGQ6etL9gnG7EDU1aPU-20" value="Создать" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="425" y="150" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rPGQ6etL9gnG7EDU1aPU-21" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="290" width="120" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="rPGQ6etL9gnG7EDU1aPU-22" value="Выбор места уборки" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fillStyle=hatch;" vertex="1" parent="1">
+          <mxGeometry x="80" y="310" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rPGQ6etL9gnG7EDU1aPU-23" value="Далее" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="425" y="200" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rPGQ6etL9gnG7EDU1aPU-24" value="Создать" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rPGQ6etL9gnG7EDU1aPU-28" value="Пуск" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="80" y="450" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rPGQ6etL9gnG7EDU1aPU-31" value="Настройка" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="425" y="100" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rPGQ6etL9gnG7EDU1aPU-32" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="40" width="120" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="rPGQ6etL9gnG7EDU1aPU-33" value="Построить карту" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="585" y="60" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rPGQ6etL9gnG7EDU1aPU-34" value="Посмотреть статистику" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="585" y="150" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rPGQ6etL9gnG7EDU1aPU-35" value="Сохранить" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="585" y="200" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rPGQ6etL9gnG7EDU1aPU-36" value="Переименовать&lt;br&gt;робота" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="585" y="100" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rPGQ6etL9gnG7EDU1aPU-61" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="290" width="120" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="rPGQ6etL9gnG7EDU1aPU-62" value="Карта" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;fillStyle=hatch;" vertex="1" parent="1">
+          <mxGeometry x="255" y="310" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rPGQ6etL9gnG7EDU1aPU-64" value="Назад" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="255" y="450" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rPGQ6etL9gnG7EDU1aPU-65" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="290" width="120" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="rPGQ6etL9gnG7EDU1aPU-66" value="Статистика" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;fillStyle=hatch;" vertex="1" parent="1">
+          <mxGeometry x="425" y="310" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rPGQ6etL9gnG7EDU1aPU-67" value="Назад" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="425" y="450" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rPGQ6etL9gnG7EDU1aPU-68" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="290" width="120" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="rPGQ6etL9gnG7EDU1aPU-69" value="Информация о текущей уборке" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;fillStyle=hatch;" vertex="1" parent="1">
+          <mxGeometry x="585" y="310" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rPGQ6etL9gnG7EDU1aPU-70" value="Назад" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="585" y="450" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
